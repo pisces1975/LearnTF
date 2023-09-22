@@ -1,4 +1,9 @@
 mnist_data/*
 summary/*
 .ipynb_checkpoints/*
-
+ch3/.ipynb_checkpoints/*
+ch3/summary/*
+ch4/summary/*
+ch4/.ipynb_checkpoints/*
+ch5/mnist/*
+ch5/.ipynb_checkpoints/*
