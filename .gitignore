@@ -7,3 +7,8 @@ ch4/summary/*
 ch4/.ipynb_checkpoints/*
 ch5/mnist/*
 ch5/.ipynb_checkpoints/*
+ch6/flask-test/*
+ch6/history/*
+ch6/model/*
+ch6/my-test-data/*
+ch6/my-train-data/*
