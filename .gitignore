@@ -13,3 +13,5 @@ ch6/history/*
 ch6/model/*
 ch6/my-test-data/*
 ch6/my-train-data/*
+ch6/.ipynb_checkpoints/*
+ch6/_pychache_/*
