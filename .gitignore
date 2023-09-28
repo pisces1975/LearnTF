@@ -15,3 +15,6 @@ ch6/my-test-data/*
 ch6/my-train-data/*
 ch6/.ipynb_checkpoints/*
 ch6/__pycache__/*
+ch7/.ipynb_checkpoints/*
+ch7/face_detection/.ipynb_checkpoints/*
+ch7/images
